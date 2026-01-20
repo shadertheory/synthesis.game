@@ -1,0 +1,1 @@
+.hacker-list.svelte-1uha8ag{list-style:none;counter-reset:li}.hacker-list.svelte-1uha8ag li:where(.svelte-1uha8ag):before{font-family:fira;content:"0x0" counter(li) " ";counter-increment:li}
